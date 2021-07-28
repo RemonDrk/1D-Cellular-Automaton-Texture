@@ -1,4 +1,4 @@
-# 1D Cellular Automoton
+# 1D Cellular Automaton
 Generates images based on given rules and random first rows
 
 ## Usage
